@@ -1,0 +1,9 @@
+# Ignorar arquivos do SQL Server
+*.mdf
+*.ldf
+*.bak
+*.log
+
+# Ignorar configurações de IDE
+.vscode/
+.idea/
